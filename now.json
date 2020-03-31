@@ -1,7 +1,8 @@
 {
   "build": {
     "env": {
-      "NOW_DEBUG": "1"
+      "NOW_DEBUG": "1",
+      "FORCE_BUILD_IN_REGION": "iad1"
     }
   }
 }
