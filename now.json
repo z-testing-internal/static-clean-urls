@@ -4,5 +4,6 @@
       "NOW_DEBUG": "1",
       "FORCE_BUILD_IN_REGION": "iad1"
     }
-  }
+  },
+  "cleanUrls": true
 }
