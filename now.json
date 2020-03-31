@@ -1,7 +1,7 @@
 {
   "build": {
     "env": {
-      "NOW_DEBUG": 1
+      "NOW_DEBUG": "1"
     }
   }
 }
